@@ -17,7 +17,7 @@ Esta página web permite a los usuarios ingresar una lista de nombres y luego re
 
 ## Instalación
 
-1.  Clona este repositorio: ``
+1.  Clona este repositorio: `https://github.com/davissok/amigo-secreto`
 2.  Abre el archivo `index.html` en tu navegador web.
 
 ## Uso
